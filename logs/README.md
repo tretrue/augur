@@ -1,1 +1,1 @@
-This folder is for the logs/PID files that will be created when running the 'make dev' commandsg
+This folder is for the logs/PID files that will be created when running the 'make dev' commands.
